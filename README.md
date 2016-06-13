@@ -7,3 +7,5 @@
 * Ejercicio 2: commit 3
 
 * Ejercicio 3: commit 1 desde feature
+
+* Ejercicio 4: commit desde featureGFT
